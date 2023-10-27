@@ -4,4 +4,4 @@ This repository contains assignments, codes and simulations of my System Identif
 ## Contents
 
 ### Assingments
-You can find every assignment files, codes and simulations under `/Assignment` directory.
+You can find every assignment files, codes and simulations under `/Assignments` directory.
